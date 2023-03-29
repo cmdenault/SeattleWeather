@@ -2,7 +2,7 @@
 for data2320: explore and compare how much it rains in Seattle and St. Louis
   
   
-    - links to the data: https://github.com/brian-fischer/DATA-3320/tree/main/weather
+    - links to the data: https://www.ncei.noaa.gov/cdo-web/search?datasetid=GHCND
 
 
 

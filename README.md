@@ -1,4 +1,4 @@
-# All About SeattleWeather
+# All About Seattle & St Louis Rainfall
 for data2320: explore and compare how much it rains in Seattle and St. Louis
   
   

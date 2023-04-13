@@ -20,11 +20,7 @@ for data2320: explore and compare how much it rains in Seattle and St. Louis
     
     
     
-*
-*
-*
-*
-*
+<br> <br> <br> <br> <br> 
 
 Some notes:
 

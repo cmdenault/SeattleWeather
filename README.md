@@ -1,12 +1,14 @@
 # All About Seattle & St Louis Rainfall
-A project for Seattle University's DATA3320 class, where I explore and compare how much it rains in Seattle and St. Louis
-for data3320: explore and compare how much it rains in Seattle and St. Louis
+A project for Seattle University's DATA3320 class, where I explore and compare how much it rains in Seattle and St. Louis. To answer the question of what city it rains more in, I used data from the NOAA of daily precipitation values for St. Louis and Seattle for 2018-2022. I then narrowed it to values of interest to us, imputed any missing data, and created a new clean data frame. Using aggregations and analysis of the clean data, graphics were created. I found St. Louis rains more by amount in general and it tends to rain in higher amounts when it does rain, but Seattle has more rainy days versus days it does not rain. 
   
   
     - links to the data: https://www.ncei.noaa.gov/cdo-web/search?datasetid=GHCND
+    
+## Software Requirement
+  Used Colaboratory, by Google
+  Github
 
-
-## Data Preparation
+## Data Processing 
    To clean up the data (data_preparation.ipynb): <br>
       ~ converted necessary data types <br>
       ~ narrowed st louis data to just 2018-2022 and one weather station <br>
@@ -19,8 +21,11 @@ for data3320: explore and compare how much it rains in Seattle and St. Louis
       ~ created new dataframes and graphs with the clean data related to the sub-questions <br>
       ~ come to a conclusion with all of the graphs made <br>
     
+# Authors
+  Cassidy Denault, _Computer Science Major, Data Science Minor_
+    
 ## License 
-   <br> Permitted to use, copy, modify, merge publish, distribute copies of the software.
+   Permitted to use, copy, modify, merge publish, distribute copies of the software.
 
     
 <br> <br> <br> <br> <br> 

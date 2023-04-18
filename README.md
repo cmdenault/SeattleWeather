@@ -1,5 +1,6 @@
 # All About Seattle & St Louis Rainfall
-for data2320: explore and compare how much it rains in Seattle and St. Louis
+A project for Seattle University's DATA3320 class, where I explore and compare how much it rains in Seattle and St. Louis
+for data3320: explore and compare how much it rains in Seattle and St. Louis
   
   
     - links to the data: https://www.ncei.noaa.gov/cdo-web/search?datasetid=GHCND
@@ -18,7 +19,9 @@ for data2320: explore and compare how much it rains in Seattle and St. Louis
       ~ created new dataframes and graphs with the clean data related to the sub-questions <br>
       ~ come to a conclusion with all of the graphs made <br>
     
-    
+## License 
+   <br> Permitted to use, copy, modify, merge publish, distribute copies of the software.
+
     
 <br> <br> <br> <br> <br> 
 

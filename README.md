@@ -7,6 +7,10 @@ A project for Seattle University's DATA3320 class, where I explore and compare h
 ## Software Requirement
   Used Colaboratory, by Google
   Github
+  
+## Data
+  Original data from the NOAA National Centers for Environmental Information.
+  We can use their [website]'https://www.ncei.noaa.gov/cdo-web/search?datasetid=GHCND' to request records of daily precipitation from Seattle and St. Louis (or other locations of interest) for the last 5 years (2018 - 2022)
 
 ## Data Processing 
    To clean up the data (data_preparation.ipynb): <br>
@@ -27,16 +31,4 @@ A project for Seattle University's DATA3320 class, where I explore and compare h
 ## License 
    Permitted to use, copy, modify, merge publish, distribute copies of the software.
 
-    
-<br> <br> <br> <br> <br> 
 
-Some notes:
-
-Convert the domain problem into a data problem <br>
-  ~ we want to describe the data (rather than predict)
-  
- Engage with Ethical Considerations <br>
-  ~ Are we: moving toward equitable outcomes, respecting privacy and consent, avoiding bias in data sources, avoiding bias in algorithms and analysis?
-  
- Also consider these <br>
-  ~
